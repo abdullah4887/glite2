@@ -1,0 +1,24 @@
+.about-us{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items: center;
+  width: 80%;
+  max-width: 70%;
+  margin-top:60px;
+  text-align:start;
+  padding-bottom: 20px;
+  border-radius: 10px;
+}
+.about-us-details{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items: center;
+  width: 60%;
+  max-width: 70%;
+  margin-top: 50px;
+  text-align:start;
+  padding-bottom: 20px;
+  border-radius: 10px;
+}
